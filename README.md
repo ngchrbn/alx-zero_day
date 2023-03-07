@@ -1,1 +1,3 @@
-My first readme
+# ALX-ZERO_DAY
+
+A readme for the project
